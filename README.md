@@ -75,7 +75,7 @@ Quality, good communication, keen eye on detail, delivering results as quick and
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.upwork.com/freelancers/~01d333ee07637ca032"><img src="https://img.shields.io/badge/-Upwork-050F2C?style=flat&logo=upwork&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/emnugraha"><img src="https://img.shields.io/badge/-Upwork-050F2C?style=flat&logo=upwork&logoColor=white"/></a>
 <a href="https://emnug.github.io/"><img src="https://img.shields.io/badge/-My&nbsp;Portfolio-00244D?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:ewinmnugraha@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/rwinzeth">

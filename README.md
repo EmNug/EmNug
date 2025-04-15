@@ -24,6 +24,25 @@ Quality, good communication, keen eye on detail, delivering results as quick and
 
 
 ### 🛠 &nbsp;Tech Stack
+<!--Graphic Design-->
+<img src="https://img.shields.io/badge/-CorelDRAW-5FA207?style=flat&logo=coreldraw&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Illustrator-EA1000?style=flat&logo=illustrator&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Photoshop-001D34?style=flat&logo=photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/-Wondershare Filmora-53E0C2?style=flat&logo=wondersharefilmora&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Canva-7731D8?style=flat&logo=canva&logoColor=white">
+
+<!--Google & Office Apps-->
+<img src="https://img.shields.io/badge/-Google Docs-2580F4?style=flat&logo=googledocs&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Google Sheets-EB4C40?style=flat&logo=googlesheets&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Google Analytics-34A853?style=flat&logo=googleanalytics&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Google Drive-2580F4?style=flat&logo=googledrive&logoColor=white">
+<img src="https://img.shields.io/badge/-PDF Editor-EB4C40?style=flat&logo=pdfeditor&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-MS Word-2580F4?style=flat&logo=googledocs&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-MS Excel-34A853?style=flat&logo=googleanalytics&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-MS Powerpoint-EB4C40?style=flat&logo=googlesheets&logoColor=white">
+<img src="https://img.shields.io/badge/-MS Excel-34A853?style=flat&logo=googleanalytics&logoColor=white">
+
 <!--Programming-->
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">&nbsp;
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;
@@ -41,27 +60,11 @@ Quality, good communication, keen eye on detail, delivering results as quick and
 <img src="https://img.shields.io/badge/-PostgreSQL-3F7F7F?style=flat&logo=postgresql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-SAP-0BA4D0?style=flat&logo=sap&logoColor=white">
 
-<!--Graphic Design-->
-<img src="https://img.shields.io/badge/-CorelDRAW-5FA207?style=flat&logo=coreldraw&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Illustrator-EA1000?style=flat&logo=illustrator&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Photoshop-001D34?style=flat&logo=photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/-Wondershare Filmora-53E0C2?style=flat&logo=wondersharefilmora&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Canva-7731D8?style=flat&logo=canva&logoColor=white">
-
 <!--Crypto Blockchain-->
 <img src="https://img.shields.io/badge/-BNB Chain-eed718?style=flat&logo=bnbchain&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/-Solidity-2B247C?style=flat&logo=solidity&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/-NFT-2081E1?style=flat&logo=nft&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/-IPFS-358B8B?style=flat&logo=ipfs&logoColor=black">
-
-<!--Google & Office Apps-->
-<img src="https://img.shields.io/badge/-Google Docs-2580F4?style=flat&logo=googledocs&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Google Sheets-EB4C40?style=flat&logo=googlesheets&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Google Analytics-34A853?style=flat&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/-MS Word-2580F4?style=flat&logo=googledocs&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-MS Powerpoint-EB4C40?style=flat&logo=googlesheets&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-MS Excel-34A853?style=flat&logo=googleanalytics&logoColor=white">
 
 ### ⚙️ &nbsp;GitHub Analytics
 

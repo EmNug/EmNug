@@ -35,8 +35,8 @@ Quality, good communication, keen eye on detail, delivering results as quick and
 <!--Google & Office Apps-->
 <img src="https://img.shields.io/badge/-Google Docs-2580F4?style=flat&logo=googledocs&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-Google Sheets-34A853?style=flat&logo=googlesheets&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Google Analytics-34A853?style=flat&logo=googleanalytics&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Google Drive-2580F4?style=flat&logo=googledrive&logoColor=white">
+<img src="https://img.shields.io/badge/-Google Analytics-EA4335?style=flat&logo=googleanalytics&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Google Drive-AB8008?style=flat&logo=googledrive&logoColor=white">
 <img src="https://img.shields.io/badge/-PDF Editor-EB4C40?style=flat&logo=pdfeditor&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-MS Word-2580F4?style=flat&logo=googledocs&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-MS Excel-34A853?style=flat&logo=googleanalytics&logoColor=white">&nbsp;

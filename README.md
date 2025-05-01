@@ -4,16 +4,15 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 <p align="justify">
-I'm Erwin from Bandung, Indonesia. Having experience as IT Support and Supply Chain Management, 
-now i got to find new opportunities in the world of Data Entry, Virtual Assistant, 
-Administrative Support & Indonesian Translator. <br>
+I'm Erwin from Bandung, Indonesia. Having experience in IT for more than +10 years as IT Support and Supply Chain Management, 
+PDF Editor, Data Entry, Virtual Assistant & Administrative Support. <br>
 Quality, good communication, keen eye on detail, delivering results as quick and efficient as possible are always become my priority in handling every task given by clients. 
 </p>
 
 
 ### 😄 &nbsp;Here's me
-💡 &nbsp;I like to explore new tech, blockchain, crypto, and web development.\
-🌱 &nbsp;I'm on track for learning more about AI, Systems Design, and Cloud Architecture.\
+💡 &nbsp;I like to explore the net.\
+🌱 &nbsp;I'm on track for learning more outside of my expertise.\
 ⚡ &nbsp;In my free time, Gaming is my Hobbies\
 💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ewinmnugraha@gmail.com! I'll try to respond as soon as I can.\
